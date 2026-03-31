@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Fathi  
 
-<!--
-**ahmedfathi2277/ahmedfathi2277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Analyst | Power BI | SQL | Excel**  
 
-Here are some ideas to get you started:
+I am a passionate Data Analyst who turns raw data into meaningful insights to support decision-making.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 📊 Interested in Data Analysis & Business Intelligence  
+- 💡 I enjoy transforming data into actionable insights  
+- 📈 Working on real-world projects to improve my skills  
+- 🎓 Certified by Google & Microsoft  
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Data Analysis:** Excel, Power BI  
+- **Databases:** SQL  
+- **Data Visualization:** Power BI Dashboards  
+- **Data Cleaning:** Excel, SQL  
+- **Programming:** Python (Basics)  
+
+---
+
+## 📊 Projects
+
+### 📌 Sales Dashboard
+- Analyzed sales data  
+- Built an interactive dashboard using Power BI  
+- Created KPIs like revenue and profit  
+
+### 📌 Customer Analysis
+- Analyzed customer behavior  
+- Performed customer segmentation  
+- Helped improve sales strategies  
+
+### 📌 HR Data Analysis
+- Analyzed employee data  
+- Studied turnover rate  
+- Provided business recommendations  
+
+---
+
+## 📈 Currently Learning
+- Advanced SQL  
+- Python for Data Analysis  
+- Building real-world projects  
+
+---
+
+## 📫 Contact Me
+- 💼 LinkedIn: https://www.linkedin.com/  
+- 📧 Email: your-email@example.com  
+
+---
+
+⭐ Check out my repositories and feel free to connect!
